@@ -26,6 +26,7 @@
     <link rel='stylesheet' href='webjars/bootstrap/3.2.0/css/bootstrap-theme.min.css'>
     <link rel='stylesheet' href='css/theme.css'>
 </head>
+    <script>alert('Hello world')</script>
 <body role="document">
   <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
