@@ -27,7 +27,7 @@
     <link rel='stylesheet' href='css/theme.css'>
 </head>
     <script>alert('Hello world')</script>
-        <script>alert('Hello world')</script>
+        <script>alert('Hello world!!')</script>
 <body role="document">
   <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
